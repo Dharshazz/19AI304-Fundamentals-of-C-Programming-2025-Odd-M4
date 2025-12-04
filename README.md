@@ -284,7 +284,8 @@ int main() {
 
 ```
 # Output:
-<img width="1340" height="697" alt="image" src="https://github.com/user-attachments/assets/a4cc4ffe-3a39-493a-89df-d3ed8bbf78da" />
+![WhatsApp Image 2025-12-04 at 11 47 33_ca42151f](https://github.com/user-attachments/assets/8a36009f-136e-4713-95aa-16d78bd35995)
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
